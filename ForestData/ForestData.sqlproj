@@ -60,5 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Music_Recording.sql" />
+    <Build Include="Music_Category.sql" />
   </ItemGroup>
 </Project>
