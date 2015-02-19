@@ -61,5 +61,6 @@
   <ItemGroup>
     <Build Include="Music_Recording.sql" />
     <Build Include="Music_Category.sql" />
+    <Build Include="Video_Recording.sql" />
   </ItemGroup>
 </Project>
