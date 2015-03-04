@@ -8,5 +8,6 @@
     [Price]       INT    NOT NULL,
     [Stock_Count] INT           NOT NULL,
     [Released]    DATE          NOT NULL,
+    [Url] NVARCHAR(50) NULL, 
     PRIMARY KEY CLUSTERED ([Id] ASC)
 );
